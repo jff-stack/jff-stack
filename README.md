@@ -3,7 +3,6 @@
 <p align="center">
   Applied Math, Computer Science and Machine Learning at Waterloo.<br>
   Business Administration (Operations & Supply Chain) at Laurier.<br>
-  I build ML systems, full-stack products, and clean interfaces.
 </p>
 
 <p align="center">
